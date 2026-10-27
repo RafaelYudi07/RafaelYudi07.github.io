@@ -1,6 +1,6 @@
-# Rafael Yudi | Portfólio profissional
+# Mizu Connect | Portfólio profissional
 
-Portfólio de desenvolvimento de software, integrações e automações. Apresenta minha trajetória, competências e projetos com Kotlin, Android, Python, APIs REST e Bitrix24.
+Mizu Connect é o portfólio profissional de Rafael Yudi, com foco em desenvolvimento de software, integrações e automações. Apresenta minha trajetória, competências e projetos com Kotlin, Android, Python, APIs REST e Bitrix24.
 
 ## Conteúdo
 
